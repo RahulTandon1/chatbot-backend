@@ -1,0 +1,4 @@
+go-genai/ # folder containing https://github.com/googleapis/go-genai/tree/main/examples
+.env
+creds.json
+.DS_Store
